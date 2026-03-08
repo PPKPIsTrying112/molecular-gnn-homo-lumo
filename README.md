@@ -39,10 +39,3 @@ The goal of this project was to develop a model that surpasses the performance o
 1.  Clone the repository.
 2.  Install the required packages: `pip install -r requirements.txt`
 3.  The PCQM4Mv2 dataset will be downloaded automatically by the OGB package upon first run.
-
-### Training the Model
-
-To train the model on a 2-million-molecule subset, run the main training script:
-
-```bash
-python train.py
